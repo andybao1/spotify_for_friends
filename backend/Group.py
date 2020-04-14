@@ -5,6 +5,8 @@ class Group:
 		self.groupID = None # we need to find a way to hash new Ids or something
 
 		self.users = [hostname]
+		
+		# store everything you need in the database(s)
 
 
 
